@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3C6527E6-FAB4-48CD-B0A2-68157200BC52}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamarin/App.xaml">
+    <Files>
+      <File FileName="HelloXamarin/App.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ED657FD8-19FE-4AD8-8EEA-A20C2A0869FB" />
+</Properties>
