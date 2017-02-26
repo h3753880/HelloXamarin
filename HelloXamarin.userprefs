@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{3C6527E6-FAB4-48CD-B0A2-68157200BC52}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamarin/App.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamarin Status">
     <Files>
-      <File FileName="HelloXamarin/App.xaml" Line="1" Column="1" />
+      <File FileName="HelloXamarin/HelloXamarinPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloXamarin Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

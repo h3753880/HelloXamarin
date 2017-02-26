@@ -7,6 +7,7 @@ namespace HelloXamarin
 		public HelloXamarinPage()
 		{
 			InitializeComponent();
+			//test
 		}
 	}
 }
