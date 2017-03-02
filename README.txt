@@ -1,0 +1,1 @@
+Run on iPhone and Android emulators
